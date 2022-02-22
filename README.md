@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Microsoft Azure
+- 🌱 I’m currently learning AWS 
 
 
